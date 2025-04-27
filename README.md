@@ -16,15 +16,15 @@ Azure Health Bot
 
 # features 
 
-** Book appoinment
+Book appoinment
 
-** Contact
+Contact
 
-** Address
+Address
 
-** Availabity timinings
+Availabity timinings
 
-** Doctors Availability
+Doctors Availability
 
 
 
